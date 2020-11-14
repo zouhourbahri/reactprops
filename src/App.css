@@ -5,12 +5,12 @@
   margin-top:50px;
   border-radius: 50px;
 }
-.position{
+/*.position{
   display:flex;
   align-items: center;
   margin: 50px;
 justify-content: space-around;
-}
+}*/
 .text{
   color:white;
   background-color: rgba(128, 128, 128, 0.548);
